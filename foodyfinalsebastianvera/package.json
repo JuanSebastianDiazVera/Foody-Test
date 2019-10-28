@@ -1,0 +1,27 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "programa mercadolibre walmart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "moment-timezone": "^0.5.27",
+    "node-fetch": "^2.3.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "require": "^2.4.20",
+    "url": "^0.11.0",
+    "yargs": "^13.2.2"
+  }
+}
